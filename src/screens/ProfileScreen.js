@@ -18,7 +18,7 @@ function ProfileScreen() {
                         <h2>{user.email}</h2>
                         <div className='profileScreen__plans'>
                             <h3>Plans</h3>
-                            <img src='./assets/under_construction.jpg' alt='under construction' />
+                            <img src='./assets/under_construction.jpg' alt='under construction' className='construction' />
                             <button className='profileScreen__signOut'
                                 onClick={() => auth.signOut()}
                             >Sign Out</button>
