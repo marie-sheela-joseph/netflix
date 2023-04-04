@@ -8,13 +8,13 @@ html{
 }
 body{
     font-size: 1.6rem;     
-    background-color: #E3E6E6;
+    /* background-color: #E3E6E6; */
 }
 .container{
     max-width: 1550px;
     margin: auto;
     padding: 0 15px;
 }
-img{
+/* img{
     width: 100%;
-}
+} */
