@@ -1,5 +1,6 @@
 {
   "hosting": {
+"site": "netflix-sheela",
     "public": "build",
     "ignore": [
       "firebase.json",
